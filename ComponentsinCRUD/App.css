@@ -1,0 +1,35 @@
+.crud{
+    text-align: center;
+    margin-top: 20px;
+    background-color: burlywood;
+    width:100%;
+    height: 100%;
+    
+}
+.table{
+    text-align: center;
+}
+.edit{
+    background-color: chartreuse;
+    border-radius:6px;
+    width: 80px;
+}
+.delete{
+    background-color: lemonchiffon;
+    border-radius:6px;
+    width: 80px;
+}
+.update{
+    background-color:red;
+    border-radius:6px;
+    width: 80px;
+}
+.row{
+    margin-top: 100px;
+}
+.add{
+    background-color:blueviolet;
+    border-radius:10px;
+    width: 80px;
+    height: 30px;
+}
